@@ -1,0 +1,15 @@
+C:\Users\Niclas\OneDrive - TECHCOLLEGE\Programmering\Gennemsnitsberegner\Gennemsnitsberegner\bin\Debug\net6.0\Gennemsnitsberegner.exe
+C:\Users\Niclas\OneDrive - TECHCOLLEGE\Programmering\Gennemsnitsberegner\Gennemsnitsberegner\bin\Debug\net6.0\Gennemsnitsberegner.deps.json
+C:\Users\Niclas\OneDrive - TECHCOLLEGE\Programmering\Gennemsnitsberegner\Gennemsnitsberegner\bin\Debug\net6.0\Gennemsnitsberegner.runtimeconfig.json
+C:\Users\Niclas\OneDrive - TECHCOLLEGE\Programmering\Gennemsnitsberegner\Gennemsnitsberegner\bin\Debug\net6.0\Gennemsnitsberegner.dll
+C:\Users\Niclas\OneDrive - TECHCOLLEGE\Programmering\Gennemsnitsberegner\Gennemsnitsberegner\bin\Debug\net6.0\Gennemsnitsberegner.pdb
+C:\Users\Niclas\OneDrive - TECHCOLLEGE\Programmering\Gennemsnitsberegner\Gennemsnitsberegner\obj\Debug\net6.0\Gennemsnitsberegner.csproj.AssemblyReference.cache
+C:\Users\Niclas\OneDrive - TECHCOLLEGE\Programmering\Gennemsnitsberegner\Gennemsnitsberegner\obj\Debug\net6.0\Gennemsnitsberegner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niclas\OneDrive - TECHCOLLEGE\Programmering\Gennemsnitsberegner\Gennemsnitsberegner\obj\Debug\net6.0\Gennemsnitsberegner.AssemblyInfoInputs.cache
+C:\Users\Niclas\OneDrive - TECHCOLLEGE\Programmering\Gennemsnitsberegner\Gennemsnitsberegner\obj\Debug\net6.0\Gennemsnitsberegner.AssemblyInfo.cs
+C:\Users\Niclas\OneDrive - TECHCOLLEGE\Programmering\Gennemsnitsberegner\Gennemsnitsberegner\obj\Debug\net6.0\Gennemsnitsberegner.csproj.CoreCompileInputs.cache
+C:\Users\Niclas\OneDrive - TECHCOLLEGE\Programmering\Gennemsnitsberegner\Gennemsnitsberegner\obj\Debug\net6.0\Gennemsnitsberegner.dll
+C:\Users\Niclas\OneDrive - TECHCOLLEGE\Programmering\Gennemsnitsberegner\Gennemsnitsberegner\obj\Debug\net6.0\refint\Gennemsnitsberegner.dll
+C:\Users\Niclas\OneDrive - TECHCOLLEGE\Programmering\Gennemsnitsberegner\Gennemsnitsberegner\obj\Debug\net6.0\Gennemsnitsberegner.pdb
+C:\Users\Niclas\OneDrive - TECHCOLLEGE\Programmering\Gennemsnitsberegner\Gennemsnitsberegner\obj\Debug\net6.0\Gennemsnitsberegner.genruntimeconfig.cache
+C:\Users\Niclas\OneDrive - TECHCOLLEGE\Programmering\Gennemsnitsberegner\Gennemsnitsberegner\obj\Debug\net6.0\ref\Gennemsnitsberegner.dll
